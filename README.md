@@ -1,2 +1,2 @@
-# cristianetanaka.github.io
-My demo portifolio
+# my_firstreposhecodescris
+I am learning how to use git!
