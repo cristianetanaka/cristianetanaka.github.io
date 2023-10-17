@@ -93,6 +93,7 @@ nav{
     background:none;
     position: relative;
     animation: mymove 10s infinite ;
+    text-shadow: 0 0 6px white;
     text-align: center;
     padding: 10px ;
     margin: 5% ;
