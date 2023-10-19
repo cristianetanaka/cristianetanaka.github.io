@@ -30,9 +30,9 @@ Hover is a selector used to select elements when you move the mouse on top of th
 ### Landing page Ipad size
 ![LP Ipad size](https://raw.githubusercontent.com/cristianetanaka/cristianetanaka.github.io/844609e5ffd3582278939e50b1232200cde86038/images/landing%20page%20ipad.png)
 ### About page Ipad size
-![A Ipad size](https://raw.githubusercontent.com/cristianetanaka/cristianetanaka.github.io/844609e5ffd3582278939e50b1232200cde86038/images/iphone%2012about.png)
+![A Ipad size](https://raw.githubusercontent.com/cristianetanaka/cristianetanaka.github.io/844609e5ffd3582278939e50b1232200cde86038/images/about%20page%20ipad%20size.png)
 ### Contact page Ipad size
-![C Ipad size](https://github.com/cristianetanaka/cristianetanaka.github.io/blob/844609e5ffd3582278939e50b1232200cde86038/images/landing%20page%20ipad.png)
+![C Ipad size](https://raw.githubusercontent.com/cristianetanaka/cristianetanaka.github.io/main/images/contact%20page%20ipad%20size.png)
 ### Landing page   Iphone 12 size
 ![LPIphone 12 size](https://raw.githubusercontent.com/cristianetanaka/cristianetanaka.github.io/844609e5ffd3582278939e50b1232200cde86038/images/iphone%2012%20landing%20page.png)
 ### About page  Iphone 12 size
