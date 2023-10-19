@@ -16,5 +16,28 @@ Landing page and profile page has been created using background images and deplo
 - [ ] Implements responsive design principles.
 - [ ] Uses semantic HTML.
 ### Bonus (optional) 
-Hover has been created in the nav and contact button
+Hover is a selector used to select elements when you move the mouse on top of them.Hover has been created in the nav and contact button ( contact page). No hamburger menu with Jave has been created at this stage. 
 - [ ] Different styles for active, hover and focus states.
+- [ ] Include JavaScript to add some dynamic elements to your site. (Extratricky!)
+### Screenshots
+
+### Landing page desktop size
+![  LP desktop size ](./images about  )
+### About page desktop size
+![  A desktop size ](./images  )
+### Contact page desktop size
+![ C desktop size ](  ./images  )
+### Landing page Ipad size
+![ LP Ipad size ](  ./images  )
+### About page Ipad size
+![ A Ipad size  ](  ./images  )
+### Contact page Ipad size
+![  C Ipad size ](  ./images  )
+### Landing page   Iphone 12 size
+![ LPIphone 12 size ](  ./images  )
+### About page  Iphone 12 size
+![  AIphone 12 size ](  ./images  )
+### Contact page  Iphone 12 size
+![  CIphone 12 size ](  ./images  )
+### Hover buttons
+![  Hover](  ./images  )
