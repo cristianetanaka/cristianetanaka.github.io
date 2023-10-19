@@ -22,13 +22,13 @@ Hover is a selector used to select elements when you move the mouse on top of th
 ### Screenshots
 
 ### Landing page desktop size
-![  LP desktop size ](./images/landing page desktop size.png)
+![LP desktop size](.images/landing page desktop size.png)
 ### About page desktop size
-![  A desktop size ](./images  )
+![A desktop size ](.images/About page desktop size.png)
 ### Contact page desktop size
-![ C desktop size ](  ./images  )
+![C desktop size](./images/contact page desktop size.png)
 ### Landing page Ipad size
-![ LP Ipad size ](  ./images  )
+![LP Ipad size](.images/landing page ipad.png)
 ### About page Ipad size
 ![ A Ipad size  ](  ./images  )
 ### Contact page Ipad size
