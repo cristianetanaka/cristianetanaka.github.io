@@ -22,7 +22,7 @@ Hover is a selector used to select elements when you move the mouse on top of th
 ### Screenshots
 
 ### Landing page desktop size
-![  LP desktop size ](./images about  )
+![  LP desktop size ](./[images about](https://github.com/cristianetanaka/cristianetanaka.github.io/blob/main/images/About%20page%20desktop%20size.png)  )
 ### About page desktop size
 ![  A desktop size ](./images  )
 ### Contact page desktop size
