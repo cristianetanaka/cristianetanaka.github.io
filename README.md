@@ -24,20 +24,20 @@ Hover is a selector used to select elements when you move the mouse on top of th
 ### Landing page desktop size
 ![LP desktop size](https://raw.githubusercontent.com/cristianetanaka/cristianetanaka.github.io/844609e5ffd3582278939e50b1232200cde86038/images/landing%20page%20desktop%20size.png)
 ### About page desktop size
-![A desktop size ](https://github.com/cristianetanaka/cristianetanaka.github.io/blob/844609e5ffd3582278939e50b1232200cde86038/images/landing%20page%20desktop%20size.png)
+![A desktop size ](https://raw.githubusercontent.com/cristianetanaka/cristianetanaka.github.io/844609e5ffd3582278939e50b1232200cde86038/images/About%20page%20desktop%20size.png)
 ### Contact page desktop size
 ![C desktop size](https://github.com/cristianetanaka/cristianetanaka.github.io/blob/844609e5ffd3582278939e50b1232200cde86038/images/contact%20page%20desktop%20size.png)
 ### Landing page Ipad size
-![LP Ipad size] (https://raw.githubusercontent.com/cristianetanaka/cristianetanaka.github.io/844609e5ffd3582278939e50b1232200cde86038/images/landing%20page%20ipad.png)
+![LP Ipad size](https://raw.githubusercontent.com/cristianetanaka/cristianetanaka.github.io/844609e5ffd3582278939e50b1232200cde86038/images/landing%20page%20ipad.png)
 ### About page Ipad size
-![A Ipad size]([./images/about page ipad size.png](https://raw.githubusercontent.com/cristianetanaka/cristianetanaka.github.io/844609e5ffd3582278939e50b1232200cde86038/images/iphone%2012about.png))
+![A Ipad size](https://raw.githubusercontent.com/cristianetanaka/cristianetanaka.github.io/844609e5ffd3582278939e50b1232200cde86038/images/iphone%2012about.png)
 ### Contact page Ipad size
-![C Ipad size]()
+![C Ipad size](https://github.com/cristianetanaka/cristianetanaka.github.io/blob/844609e5ffd3582278939e50b1232200cde86038/images/landing%20page%20ipad.png)
 ### Landing page   Iphone 12 size
-![LPIphone 12 size](./images/landing page ipad.png)
+![LPIphone 12 size](https://raw.githubusercontent.com/cristianetanaka/cristianetanaka.github.io/844609e5ffd3582278939e50b1232200cde86038/images/iphone%2012%20landing%20page.png)
 ### About page  Iphone 12 size
-![AIphone 12 size](./images/iphone 12about.png)
+![AIphone 12 size](https://raw.githubusercontent.com/cristianetanaka/cristianetanaka.github.io/844609e5ffd3582278939e50b1232200cde86038/images/iphone%2012about.png)
 ### Contact page  Iphone 12 size
-![CIphone 12 size](images/iphone 12 contact page.png)
+![CIphone 12 size](https://raw.githubusercontent.com/cristianetanaka/cristianetanaka.github.io/844609e5ffd3582278939e50b1232200cde86038/images/iphone%2012%20contact%20page.png)
 ### Hover buttons
-![Hover](./images/Hover buttons.png)
+![Hover](https://raw.githubusercontent.com/cristianetanaka/cristianetanaka.github.io/844609e5ffd3582278939e50b1232200cde86038/images/Hover%20buttons.png)
