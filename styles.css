@@ -302,3 +302,24 @@ p{
     align-items: center;
     }   
 }
+
+.projects{
+    width: 700px;
+    text-align: center;
+    background-color: none;
+    border: purple;
+    color: black;
+    opacity: 1;
+    transition: 5s;
+    font-family: 'Roboto Slab', serif;
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 4%;
+    padding: 8px 16px;
+    display: flex;
+    align-content: center;
+    justify-content:space-between;
+    align-items: center ;
+    flex-direction: row;
+}
