@@ -40,6 +40,7 @@ Hover is a selector used to select elements when you move the mouse on top of th
 ### Contact page  Iphone 12 size
 ![CIphone 12 size](https://raw.githubusercontent.com/cristianetanaka/cristianetanaka.github.io/844609e5ffd3582278939e50b1232200cde86038/images/iphone%2012%20contact%20page.png)
 ### Hover buttons
+<<<<<<< HEAD
 ![Hover](https://raw.githubusercontent.com/cristianetanaka/cristianetanaka.github.io/844
 - [ ] Include JavaScript to add some dynamic elements to your site. (Extratricky!)
 ### Screenshots
@@ -65,3 +66,6 @@ Hover is a selector used to select elements when you move the mouse on top of th
 ![CIphone 12 size] (./images/iphone 12 contact page.png)
 ### Hover buttons
 ![Hover](./images/Hover buttons.png)
+=======
+![Hover](https://raw.githubusercontent.com/cristianetanaka/cristianetanaka.github.io/844609e5ffd3582278939e50b1232200cde86038/images/Hover%20buttons.png)
+>>>>>>> ae1f8a3459ff68f6603a112047b18136e91b2390
